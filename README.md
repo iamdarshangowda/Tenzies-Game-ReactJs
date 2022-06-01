@@ -1,4 +1,4 @@
-Tenzies Game | <a href="https://629653f4487c6c18558f570d--sprightly-faloodeh-963178.netlify.app/">DEMO</a>
+Tenzies Game | <a href="https://sprightly-faloodeh-963178.netlify.app/">DEMO</a>
 
 # Getting Started with Create React App
 
