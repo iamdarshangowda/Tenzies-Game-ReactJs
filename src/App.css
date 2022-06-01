@@ -54,7 +54,7 @@ main {
 
 .roll-dice {
   height: 50px;
-  width: 100px;
+  width: 150px;
   border: none;
   border-radius: 6px;
   background-color: #5035ff;
@@ -75,5 +75,11 @@ main {
 
 .result {
   color: rgb(189, 27, 27);
-  margin-bottom: 15px;
+  margin: 5px auto;
+  text-align: center;
+}
+
+.result > p {
+  background-color: greenyellow;
+  color: black;
 }
